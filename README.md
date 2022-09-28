@@ -1,2 +1,2 @@
 # e-learning
-It is a study project
+It is a educational project
